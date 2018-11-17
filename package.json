@@ -1,0 +1,12 @@
+{
+  "name": "note-electron",
+  "version": "1.0.0",
+  "description": "a demo for electron",
+  "main": "main.js",
+  "author": "dottie",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "osenv": "^0.1.5"
+  }
+}
